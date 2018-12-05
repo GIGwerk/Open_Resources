@@ -1,23 +1,28 @@
 # Resources
 Open Culture Resources from around the globe
 
-
-- https://www.instructables.com/
-
-- https://wikifab.org //  http://lowtechlab.org/wiki/Accueil
-
+## open source platforms
+- https://wikifab.org
+- http://lowtechlab.org/
 - https://opensourceecology.org
 - https://wiki.opensourceecology.de 
 
+## proprietary platforms
+- https://www.instructables.com/
+- https://www.dozuki.com/
+
+## Examples
 ### Upcycle your own Open Workshop
 - https://wikifab.org/wiki/Open_Workshop_Setup
 
 
 ## Android apps
 consider [Yalp Store](https://f-droid.org/en/packages/com.github.yeriomin.yalpstore/) (Google free App Store)
+and [f-droid](https://f-droid.org) (free and open source Apps)
 
 - https://play.google.com/store/apps/details?id=com.wiNstruct_8207604
 - https://play.google.com/store/apps/details?id=com.bluino.arduinotutorialsexamples
+- https://f-droid.org/de/packages/net.gsantner.markor/ (good text editor for documentation)
 
 
 ## e-books 
