@@ -9,6 +9,9 @@ Open Culture Resources from around the globe
 - https://opensourceecology.org
 - https://wiki.opensourceecology.de 
 
+### Upcycle your own Open Workshop
+- https://wikifab.org/wiki/Open_Workshop_Setup
+
 
 ## Android apps
 consider [Yalp Store](https://f-droid.org/en/packages/com.github.yeriomin.yalpstore/) (Google free App Store)
