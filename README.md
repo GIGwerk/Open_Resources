@@ -7,6 +7,7 @@ Open Culture Resources from around the globe
 - https://opensourceecology.org
 - https://wiki.opensourceecology.de 
 - http://wiring.org.co/learning/tutorials/
+- http://engineering.case.edu/sears-thinkbox/use
 
 ## proprietary platforms
 - https://www.instructables.com/
